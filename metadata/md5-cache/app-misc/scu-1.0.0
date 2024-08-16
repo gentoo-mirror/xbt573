@@ -9,5 +9,5 @@ KEYWORDS=~amd64
 LICENSE=GPL-3 || ( Apache-2.0 MIT )
 SLOT=0
 SRC_URI=https://github.com/omnitix/scu/archive/refs/tags/1.0.0.tar.gz -> scu-1.0.0.tar.gz https://crates.io/api/v1/crates/regex-syntax/0.7.1/download -> regex-syntax-0.7.1.crate https://crates.io/api/v1/crates/regex/1.8.1/download -> regex-1.8.1.crate
-_eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	rust-toolchain	2170de6b588d2626aaf369dbd57d7a0c	cargo	c806360bab90e2b49223df1810172c2b
+_eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	rust-toolchain	ba649abdd15e0b9b09b92b05a1d10b3d	cargo	c806360bab90e2b49223df1810172c2b
 _md5_=2fd49a18dbf4994c391c4745e8cc1e96
