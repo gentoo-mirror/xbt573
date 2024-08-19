@@ -1,3 +1,5 @@
+**Update of 20.08.2024**: this repository won't update further because of my switch to opensuse
+
 ```
 # eselect repository add xbt573 git https://github.com/xbt573/xbt573-overlay.git
 # emaint -r xbt573 sync
